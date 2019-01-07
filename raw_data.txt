@@ -1,0 +1,159 @@
+date	game
+7/18/2018	arboretum
+7/18/2018	star wars rebellion
+7/18/2018	el grande
+7/18/2018	dvonn
+7/19/2018	arboretum
+7/19/2018	space empires 4x
+7/20/2018	space empires 4x
+7/22/2018	hannibal & hamilcar
+7/22/2018	arboretum
+7/24/2018	arboretum
+7/24/2018	dvonn
+7/25/2018	dvonn
+7/26/2018	condottiere
+7/30/2018	eight minute empire
+8/1/2018	chaos in the old world
+8/3/2018	shadespire
+8/3/2018	tak
+8/4/2018	civilization a new dawn
+8/6/2018	bohnanza
+8/7/2018	aeons end
+8/7/2018	decrypto
+8/7/2018	cockroach poker
+8/8/2018	deception murder in hong kong
+8/9/2018	space corp
+8/9/2018	space empires 4x
+8/9/2018	dominant species
+8/10/2018	caylus
+8/11/2018	notre dame
+8/14/2018	key flow
+8/14/2018	fairy tale
+8/14/2018	yellow and yangtze
+8/15/2018	master of the galaxy
+8/15/2018	aeons end
+8/15/2018	doom
+8/17/2018	lord of the rings: the card game
+8/17/2018	modern art
+8/17/2018	pax reniassance
+8/17/2018	space hulk: death angel
+8/19/2018	tichu
+8/20/2018	go
+8/20/2018	hannibal & hamilcar
+8/22/2018	ra
+8/22/2018	hannibal & hamilcar
+8/22/2018	el grande
+8/22/2018	antike 2
+8/23/2018	pax porfiriana
+8/23/2018	altiplano
+8/24/2018	notre dame
+8/25/2018	notre dame
+8/26/2018	notre dame
+8/31/2018	imperial struggle
+9/2/2018	biblios
+9/4/2018	antike 2
+9/4/2018	imperial 2030
+9/4/2018	ra
+9/5/2018	aeons end
+9/5/2018	antike 2
+9/10/2018	voyages of marco polo
+9/10/2018	ra
+9/11/2018	xenoshift
+9/11/2018	fast forward fortress
+9/12/2018	scythe
+9/12/2018	space empires 4x
+9/13/2018	diplomacy
+9/17/2018	space empires 4x
+9/19/2018	hannibal & hamilcar
+9/19/2018	pax paramir
+9/24/2018	the republic of rome
+9/25/2018	dune
+9/26/2018	dune
+9/27/2018	fleet commander: genesis
+9/29/2018	notre dame
+9/30/2018	biblios
+10/1/2018	forbidden stars
+10/1/2018	inis
+10/3/2018	century: eastern wonders
+10/3/2018	space empires 4x
+10/5/2018	biblios
+10/8/2018	rex: final days of an empire
+10/9/2018	burning suns
+10/11/2018	hannibal & hamilcar
+10/12/2018	dominant species: marine
+10/13/2018	dominant species: marine
+10/16/2018	dominant species: marine
+10/16/2018	troyes
+10/16/2018	forbidden stars
+10/17/2018	android: netrunner
+10/25/2018	space empires 4x
+10/27/2018	ra
+10/27/2018	hannibal & hamilcar
+10/27/2018	space empires 4x
+10/27/2018	dune
+10/28/2018	hannibal & hamilcar
+10/30/2018	senji
+10/30/2018	battle for rokugan
+10/30/2018	through the desert
+10/30/2018	caylus
+11/1/2018	polis: fight for the hegemony
+11/3/2018	stellar conquest
+11/5/2018	sagrada
+11/5/2018	dune
+11/7/2018	diplomacy
+11/9/2018	caylus
+11/13/2018	rising sun
+11/14/2018	dune
+11/16/2018	android: netrunner
+11/16/2018	imperial struggle
+11/21/2018	hannibal & hamilcar
+11/21/2018	dune
+11/21/2018	space empires 4x
+11/21/2018	command and colors: napoleonics
+11/21/2018	mapmaker
+11/22/2018	condottiere
+11/24/2018	the expanse
+11/24/2018	codenames: pictures
+11/25/2018	azul
+11/27/2018	spacecorp
+11/28/2018	tsuro: phoenix rising
+11/28/2018	quantitative easing
+11/28/2018	vindication
+11/28/2018	biblios
+11/27/2018	bohnanza
+11/30/2018	tsuro: phoenix rising
+11/30/2018	condottiere
+11/30/2018	space empires 4x
+12/3/2018	codenames: pictures
+12/3/2018	hannibal & hamilcar
+12/3/2018	successors
+12/3/2018	the voyages of marco polo
+12/3/2018	dune
+12/5/2018	dune
+12/7/2018	space empires 4x
+12/10/2018	biblios
+12/11/2018	quartermaster general
+12/11/2018	senji
+12/12/2018	condottiere
+12/12/2018	sagrada
+12/12/2018	kemet
+12/12/2018	azul
+12/12/2018	space empires 4x
+12/14/2018	the king is dead
+12/14/2018	triumph & tragedy
+12/14/2018	spacecorp
+12/16/2018	caylus
+12/16/2018	imperial 2030
+12/17/2018	silver bayonet
+12/17/2018	combat commander
+12/22/2018	spacecorp
+12/22/2018	space empires 4x
+12/22/2018	high frontier
+12/22/2018	Kepler 3042
+12/23/2018	new frontiers
+12/26/2018	azul
+12/26/2018	spacecorp
+12/26/2018	space empires 4x
+12/30/2018	tak
+12/30/2018	azul
+1/6/2019	space empires 4x
