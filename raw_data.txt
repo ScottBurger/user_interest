@@ -157,3 +157,85 @@ date	game
 12/30/2018	tak
 12/30/2018	azul
 1/6/2019	space empires 4x
+1/8/2019	twilight imperium
+1/9/2019	spacecorp
+1/10/2019	el grande
+1/10/2019	advanced civilization
+1/10/2019	mega civilization
+1/10/2019	dune
+1/11/2019	azul
+1/15/2019	successors
+1/15/2019	cataclysm
+1/16/2019	cataclysm
+1/16/2019	codenames pictures
+1/16/2019	dominion empires
+1/16/2019	tak
+1/18/2019	el grande
+1/20/2019	space empires 4x
+1/20/2019	voyages of marco polo
+1/23/2019	shards of infinity
+1/23/2019	bohnanza
+1/28/2019	dominion empires
+1/29/2019	space empires 4x
+1/31/2019	spacecorp
+1/30/2019	conspiracy
+1/30/2019	age of industry
+1/30/2019	in the shadow of the emporer
+2/5/2019	hannibal & hamilcar
+2/5/2019	lord of the rings: the card game
+2/6/2019	dixit
+2/6/2019	crokinole
+2/7/2019	space empires 4x
+2/12/2019	space empires 4x
+2/15/2019	pulsar 2849
+2/21/2019	crokinole
+2/22/2019	space empires 4x
+2/25/2019	successors
+2/25/2019	crokinole
+2/26/2019	parks the board game
+3/1/2019	falling sky
+3/4/2019	dune the dice game
+3/4/2019	kemet
+3/6/2019	wingspan
+3/6/2019	crokinole
+3/14/2019	dune
+3/19/2019	starcraft the board game
+3/21/2019	xenoshift
+3/21/2019	hoax
+3/21/2019	starcraft the board game
+3/24/2019	dune
+3/24/2019	cataclysm
+3/25/2019	cataclysm
+3/25/2019	joust
+3/29/2019	starcraft the board game
+4/4/2019	cataclysm
+4/5/2019	space empires 4x
+4/8/2019	imperial 2030
+4/8/2019	imperial
+4/9/2019	labyrinth: the war on terror
+4/16/2019	chaos in the old world
+4/24/2019	twilight imperium
+4/24/2019	saboteur
+4/24/2019	space empires 4x
+4/24/2019	targi
+4/24/2019	war chest
+4/24/2019	battlestar galactica
+5/2/2019	summoner wars
+5/5/2019	dune
+5/6/2019	space empires 4x
+5/6/2019	warpgate
+5/7/2019	51st state
+5/10/2019	dune
+5/10/2019	dominant species
+5/10/2019	chaos in the old world
+5/11/2019	space empires 4x
+5/11/2019	spacecorp
+5/11/2019	kemet
+5/13/2019	twilight imperium
+5/14/2019	imperius
+5/15/2019	summoner wars
+5/15/2019	kemet
+5/16/2019	spacecorp
+5/16/2019	the republic of rome
+5/20/2019	pandemic legacy
+5/20/2019	forbidden stars
