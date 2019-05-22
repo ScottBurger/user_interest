@@ -1,4 +1,3 @@
-
 library(dplyr)
 
 #read the data from the raw_data file
@@ -31,7 +30,7 @@ for(j in 1:length(unique(log$game))){
   test_join2 <- left_join(test_join2, result_join, by='date')
 }
 
-write.table(test_join2, "clipboard", sep="\t", row.names = F, quote = F)
+#write.table(test_join2, "clipboard", sep="\t", row.names = F, quote = F)
 
 
 ####
@@ -57,8 +56,13 @@ for(k in 2:ncol(test_join2)){
   final <- rbind(final, final_1)
 }
 
-write.table(model_subset, "clipboard", quote = F, row.names = F, sep="\t")
+###
+### current interest level join
+###
 
+current_interest <- as.data.frame(t(subset(test_join2, date==Sys.Date())))
+current_interest$game <- row.names(current_interest) 
 
+final_join <- left_join(final, current_interest, by="game")
 
-
+#write.table(model_subset, "clipboard", quote = F, row.names = F, sep="\t")
