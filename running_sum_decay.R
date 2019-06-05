@@ -66,3 +66,27 @@ current_interest$game <- row.names(current_interest)
 final_join <- left_join(final, current_interest, by="game")
 
 #write.table(model_subset, "clipboard", quote = F, row.names = F, sep="\t")
+
+final_join <- final_join[-1,]
+names(final_join)[5] <- "current interest"
+final_join$`current interest` <- as.numeric(levels(final_join$`current interest`))[final_join$`current interest`]
+
+
+
+
+
+#
+# more fun analysis
+#
+
+final_join$pythag_rank <- sqrt(
+                        (rank(-final_join$interest))^2 
+                        + (rank(-final_join$`days on radar`))^2
+                        + (rank(-final_join$`days of interest`))^2
+                        + (rank(-final_join$`current interest`))^2
+                        )
+  
+
+
+#plot(test_join2$date, test_join2$dune)
+  
