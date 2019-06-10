@@ -40,7 +40,7 @@ for(j in 1:length(unique(log$game))){
 game_freq <- data.frame(table(log$game))
 
 final <- data.frame(matrix(0, ncol=4))
-colnames(final) <- c("game", "interest", "days on radar", "days of interest")
+colnames(final) <- c("game", "interest slope", "days on radar", "days of interest")
 
 for(k in 2:ncol(test_join2)){
   
@@ -51,7 +51,7 @@ for(k in 2:ncol(test_join2)){
   days_of_interest <- subset(game_freq, subset=(Var1 == colnames(test_join2)[k]))[2]
   
   final_1 <- data.frame(colnames(test_join2)[k], coef, nrow(model_subset), days_of_interest)
-  colnames(final_1) <- c("game", "interest", "days on radar", "days of interest")
+  colnames(final_1) <- c("game", "interest slope", "days on radar", "days of interest")
   
   final <- rbind(final, final_1)
 }
@@ -60,7 +60,7 @@ for(k in 2:ncol(test_join2)){
 ### current interest level join
 ###
 
-current_interest <- as.data.frame(t(subset(test_join2, date==Sys.Date())))
+current_interest <- as.data.frame(t(subset(test_join2, date==max(test_join2$date))))
 current_interest$game <- row.names(current_interest) 
 
 final_join <- left_join(final, current_interest, by="game")
@@ -86,7 +86,8 @@ final_join$pythag_rank <- sqrt(
                         + (rank(-final_join$`current interest`))^2
                         )
   
-
+final_join$hype_rank <- rank(-final_join$interest) - rank(-final_join$`current interest`)
+  
 
 #plot(test_join2$date, test_join2$dune)
   
