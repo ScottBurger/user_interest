@@ -2,10 +2,15 @@
 Data and source code for calculating user interest decay rates
 
 By taking in data in the form of:
+
 date	game
+
 7/18/2018	arboretum
+
 7/18/2018	star wars rebellion
+
 7/18/2018	el grande
+
 ...
 
 We can see how interest in certain games decay over time, given some sort of decay function.
